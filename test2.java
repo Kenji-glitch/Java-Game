@@ -9,7 +9,6 @@ public class test2 {
     public static void main(String[] args) throws InterruptedException {
         boolean gameRunning = true;
 
-        
         System.out.println("\n\n          Group 2 Presents     \n\n");
         Thread.sleep(2000);
         System.out.println("--------------------------------------------");
@@ -20,6 +19,18 @@ public class test2 {
         System.out.println("--------------------------------------------");
         System.out.println("--------------------------------------------\n\n");
         Thread.sleep(2000);
+
+        System.out.println("\n\n          Group 2 Presents     \n\n");
+        Thread.sleep(2000);
+        System.out.println("--------------------------------------------");
+        System.out.println("--------------------------------------------");
+        System.out.println("              -Trivia Game-                ");
+        System.out.println("              Version 1.1.2                 ");
+        System.out.println("                   Beta                     ");
+        System.out.println("--------------------------------------------");
+        System.out.println("--------------------------------------------\n\n");
+        Thread.sleep(2000);
+
 
         List<String[]> questions = new ArrayList<>();
         questions.add(new String[]{"What is the third planet from the Sun?:\n \nA. Earth\nB. Jupiter\nC. Mars\nD. Yekok\n ", "A"});
