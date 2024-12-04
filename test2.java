@@ -31,6 +31,17 @@ public class test2 {
         System.out.println("--------------------------------------------\n\n");
         Thread.sleep(2000);
 
+        System.out.println("\n\n          Group 2 Presents     \n\n");
+        Thread.sleep(2000);
+        System.out.println("--------------------------------------------");
+        System.out.println("--------------------------------------------");
+        System.out.println("              -Trivia Game-                ");
+        System.out.println("              Version 1.1.2                 ");
+        System.out.println("                   Beta                     ");
+        System.out.println("--------------------------------------------");
+        System.out.println("--------------------------------------------\n\n");
+        Thread.sleep(2000);
+
 
 
         List<String[]> questions = new ArrayList<>();
